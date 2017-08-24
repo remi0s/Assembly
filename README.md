@@ -1,2 +1,2 @@
 # Assembly
-Various assembly projects for AUTH Microprocessor Systems
+Various assembly projects on AVR for AUTH Microprocessor Systems
